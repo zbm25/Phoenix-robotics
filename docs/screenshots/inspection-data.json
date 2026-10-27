@@ -1,0 +1,3522 @@
+{
+  "title": "Robixx - Webflow HTML website template",
+  "bodyStyles": {
+    "fontFamily": "Inter, sans-serif",
+    "fontSize": "18px",
+    "fontWeight": "400",
+    "lineHeight": "27px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderColor": "rgb(0, 0, 0)",
+    "borderRadius": "0px",
+    "padding": "0px",
+    "margin": "0px",
+    "maxWidth": "none"
+  },
+  "headings": [
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "PRECISION ROBOTICS FOR MODERN AUTOMATION",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H1",
+      "class": "hero-heading",
+      "text": "Built for intelligent automation",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "70px",
+        "fontWeight": "400",
+        "lineHeight": "77px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "OUR SOLUTIONS",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "",
+      "text": "Automation solutions built to scale with your operations",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "collecton-card-name",
+      "text": "Precision Robotic Gripping",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "collecton-card-name",
+      "text": "Integrated Automation Systems",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "collecton-card-name",
+      "text": "Built for Your Unique Workflow",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "PRODUCT OVERVIEW",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "",
+      "text": "ARC Grip X1",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-27a82af7-f6ba-4e5e-b4de-598d8af1fda7",
+      "text": "PAYLOAD",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(107, 95, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(107, 95, 95)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "UP TO 50 KG",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-27a82af7-f6ba-4e5e-b4de-598d8af1fda7",
+      "text": "GRIP RANGE",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(107, 95, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(107, 95, 95)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "5–120 MM",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-27a82af7-f6ba-4e5e-b4de-598d8af1fda7",
+      "text": "CYCLE TIME",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(107, 95, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(107, 95, 95)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "< 0.5 S",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-27a82af7-f6ba-4e5e-b4de-598d8af1fda7",
+      "text": "ACCURACY",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(107, 95, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(107, 95, 95)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "±0.02 MM",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "WHY CHOOSE US",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "",
+      "text": "Built for results.Engineered for performance.",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "OUR LOCATIONS WORLDWIDE",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "h1-style heading-top-spacing",
+      "text": "Powering automation worldwide.",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "70px",
+        "fontWeight": "400",
+        "lineHeight": "77px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading",
+      "text": "WHAT OUR CLIENTS SAY",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(172, 23, 23)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(172, 23, 23)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-f72e822c-eb73-fc58-839a-ae153aa2c3a1",
+      "text": "READY TO AUTOMATE YOUR WORKFLOW?",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "h1-style heading-top-spacing text-white",
+      "text": "Talk to our experts and discover the right solution for your production.",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "70px",
+        "fontWeight": "400",
+        "lineHeight": "77px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-f72e822c-eb73-fc58-839a-ae153aa2c3a1",
+      "text": "NEWS, UPDATES & INDUSTRY TRENDS",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "H2",
+      "class": "text-white",
+      "text": "How robotic grippers are transforming modern manufacturing",
+      "styles": {
+        "fontFamily": "\"Gowun Batang\", sans-serif",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "55px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-f72e822c-eb73-fc58-839a-ae153aa2c3a1",
+      "text": "COMPANY",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-f72e822c-eb73-fc58-839a-ae153aa2c3a1",
+      "text": "SOLUTIONS",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "subheading w-variant-f72e822c-eb73-fc58-839a-ae153aa2c3a1",
+      "text": "RESOURCES",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "A",
+      "class": "nav-link-item tablet-hidden w-inline-block w--current",
+      "text": "HomeHome",
+      "href": "/",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "11px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-inline-block w--current",
+      "text": "Home Home",
+      "href": "/",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "11px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-inline-block",
+      "text": "About Us About Us",
+      "href": "/about-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "11px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-inline-block",
+      "text": "Solutions Solutions",
+      "href": "/solutions",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "11px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block w--current",
+      "text": "HomeHome",
+      "href": "/",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "About UsAbout Us",
+      "href": "/about-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "SolutionsSolutions",
+      "href": "/solutions",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Solution DetailsSolution Details",
+      "href": "/solutions/precision-robotic-gripping",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "ProductsProducts",
+      "href": "/products",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Product DetailProduct Detail",
+      "href": "/products/arc-grip-x1",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "IndustriesIndustries",
+      "href": "/industries",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Industry DetailsIndustry Details",
+      "href": "/industry/automated-transportation",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "LeadershipLeadership",
+      "href": "/leadership",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Our ClientsOur Clients",
+      "href": "/our-clients",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Our PartnersOur Partners",
+      "href": "/our-partners",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "PricingPricing",
+      "href": "/pricing",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Style GuideStyle Guide",
+      "href": "/style-guide",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "ChangelogChangelog",
+      "href": "/changelog",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "TestimonialsTestimonials",
+      "href": "/testimonials",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "FAQFAQ",
+      "href": "/faq",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Contact UsContact Us",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "BlogBlog",
+      "href": "/blog",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "Blog DetailsBlog Details",
+      "href": "/blog-posts/guarding-that-operators-will-not-work-around",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "LicensesLicenses",
+      "href": "/licenses",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "nav-link-item w-variant-9b11586d-ef5c-c5c1-4492-9b85cb2afa23 w-inline-block",
+      "text": "InstructionsInstructions",
+      "href": "/instructions",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 10px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "nav-btn-wrap",
+      "text": "Get a quoteGet a quote",
+      "href": null,
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-inline-block",
+      "text": "Get a quoteGet a quote",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-inline-block",
+      "text": "Get a quote Get a quote",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-inline-block",
+      "text": "All Solutions All Solutions",
+      "href": "/solutions",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "lightbox-button-grey w-inline-block",
+      "text": "Book a Demo Book a Demo",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(231, 231, 231, 0.8)",
+        "borderColor": "rgba(255, 255, 255, 0)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-inline-block",
+      "text": "Read more about company Read more about company",
+      "href": "/about-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "solution-collection-link w-inline-block",
+      "text": "Precision Robotic Gripping High-performance grippers engineered for accuracy, speed, and reliability across a wide range of applications.",
+      "href": "/solutions/precision-robotic-gripping",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "solution-collection-link w-inline-block",
+      "text": "Integrated Automation Systems End-to-end robotic systems designed to streamline production, improve efficiency, and scale with your business.",
+      "href": "/solutions/integrated-automation-systems",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "solution-collection-link w-inline-block",
+      "text": "Built for Your Unique Workflow Custom-engineered solutions developed to solve complex challenges and meet specific operational requirements.",
+      "href": "/solutions/built-for-your-unique-workflow",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "link-arrow w-inline-block",
+      "text": "All solutions",
+      "href": "/solutions",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-variant-2a682d02-9334-41cf-1b5d-3cd79d43a200 w-inline-block",
+      "text": "Request a quote Request a quote",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "lightbox-button-grey w-inline-block w-lightbox",
+      "text": "Watch video Watch video",
+      "href": "#",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(231, 231, 231, 0.8)",
+        "borderColor": "rgba(255, 255, 255, 0)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-inline-block",
+      "text": "Work with us Work with us",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "primary-button w-variant-5f22dd8c-88e1-3c0f-2856-6a2f7c3956cf w-inline-block",
+      "text": "Request a quote Request a quote",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "lightbox-button-grey w-variant-0e607c05-9eec-4661-3ba9-bf68e9ed3b59 w-inline-block",
+      "text": "All Solutions All Solutions",
+      "href": "/solutions",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(231, 231, 231, 0.3)",
+        "borderColor": "rgba(255, 255, 255, 0)",
+        "borderRadius": "20px",
+        "padding": "11px 20px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "ABOUT US ABOUT US",
+      "href": "/about-us",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "OUR PARTNERS OUR PARTNERS",
+      "href": "/our-partners",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "OUR PRODUCTS OUR PRODUCTS",
+      "href": "/products",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "NEWS & INSIGHTS NEWS & INSIGHTS",
+      "href": "/blog",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "OUR CLIENTS OUR CLIENTS",
+      "href": "/our-clients",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "GRIPPERS GRIPPERS",
+      "href": "/solutions/precision-robotic-gripping",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "AUTOMATION SYSTEMS AUTOMATION SYSTEMS",
+      "href": "/solutions/integrated-automation-systems",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "CUSTOM SOLUTIONS CUSTOM SOLUTIONS",
+      "href": "/solutions/built-for-your-unique-workflow",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "INDUSTRIES WE SERVE INDUSTRIES WE SERVE",
+      "href": "/solutions/solutions-across-every-industry",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "INTEGRATIONS INTEGRATIONS",
+      "href": "/solutions/seamless-system-integrations",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "FAQ'S FAQ'S",
+      "href": "/faq",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "CONTACT CONTACT",
+      "href": "/contact-us",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "PRICING PRICING",
+      "href": "/pricing",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "INDUSTRIES INDUSTRIES",
+      "href": "/industries",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "contact-link w-inline-block",
+      "text": "TESTIMONIALS TESTIMONIALS",
+      "href": "/testimonials",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "100%"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "footer-copyright-link",
+      "text": "LICENSES",
+      "href": "/licenses",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgba(231, 231, 231, 0.8)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(231, 231, 231, 0.8)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "footer-copyright-link",
+      "text": "WEBFLOW TEMPLATES",
+      "href": "https://www.128.digital/webflow-templates",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgba(231, 231, 231, 0.8)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(231, 231, 231, 0.8)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "footer-copyright-link",
+      "text": "128.DIGITAL",
+      "href": "https://www.128.digital/",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgba(231, 231, 231, 0.8)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(231, 231, 231, 0.8)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "A",
+      "class": "footer-copyright-link",
+      "text": "WEBFLOW",
+      "href": "https://webflow.com/",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgba(231, 231, 231, 0.8)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgba(231, 231, 231, 0.8)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "tag": "DIV",
+      "class": "indicator-container",
+      "id": "",
+      "textSnippet": "",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px 0px 20px 20px",
+        "padding": "0px",
+        "margin": "0px 45px",
+        "maxWidth": "1320px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "base-container w-container",
+      "id": "",
+      "textSnippet": "Home Home About Us About Us Solutions Solutions All Pages All Pages Get a quote Get a quote",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px 35px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "hero-nav-dropdown w-dropdown",
+      "id": "",
+      "textSnippet": "All Pages All Pages",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "PRECISION ROBOTICS FOR MODERN AUTOMATION Built for intelligent automation All Solutions All Solutions Book a Demo Book a Demo HIGH-PERFORMANCE ROBOTIC",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-grid hero-content-grid",
+      "id": "",
+      "textSnippet": "PRECISION ROBOTICS FOR MODERN AUTOMATION Built for intelligent automation All Solutions All Solutions Book a Demo Book a Demo",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px 0px 50px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-vflex hero-content-flex",
+      "id": "w-node-_28201bf4-7acc-4e02-8fd8-b3d12f2ba39f-b7586408",
+      "textSnippet": "PRECISION ROBOTICS FOR MODERN AUTOMATION Built for intelligent automation All Solutions All Solutions Book a Demo Book a Demo",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "645px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-hflex hero-dual-buttons-wrap",
+      "id": "",
+      "textSnippet": "All Solutions All Solutions Book a Demo Book a Demo",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "30px 0px 0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "hero-image-holder",
+      "id": "w-node-d6e8c7cd-e0c8-f594-19bb-0642863c14e1-b7586408",
+      "textSnippet": "",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 55px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-vflex hero-bottom-content",
+      "id": "",
+      "textSnippet": "HIGH-PERFORMANCE ROBOTIC GRIPPERS FOR MANUFACTURERS AND AUTOMATION TEAMS.",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "bottom-hero-description-wrap",
+      "id": "",
+      "textSnippet": "HIGH-PERFORMANCE ROBOTIC GRIPPERS FOR MANUFACTURERS AND AUTOMATION TEAMS.",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(231, 231, 231, 0.01)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "20px 20px 0px 0px",
+        "padding": "40px",
+        "margin": "-15px 0px 0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-hflex bottom-hero-text-holder",
+      "id": "",
+      "textSnippet": "HIGH-PERFORMANCE ROBOTIC GRIPPERS FOR MANUFACTURERS AND AUTOMATION TEAMS.",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "hero-text-description-wrap",
+      "id": "",
+      "textSnippet": "HIGH-PERFORMANCE ROBOTIC GRIPPERS FOR MANUFACTURERS AND AUTOMATION TEAMS.",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "330px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "hero-text-bottom-left",
+      "id": "",
+      "textSnippet": "HIGH-PERFORMANCE ROBOTIC GRIPPERS FOR MANUFACTURERS AND AUTOMATION TEAMS.",
+      "styles": {
+        "fontFamily": "\"Geist Mono\", sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "19.6px",
+        "color": "rgb(107, 95, 95)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(107, 95, 95)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "large-photo-section",
+      "id": "",
+      "textSnippet": "",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "section",
+      "id": "",
+      "textSnippet": "OUR SOLUTIONS Automation solutions built to scale with your operations From precision gripping to fully integrated systems, our solutions are designe",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "150px 0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "OUR SOLUTIONS Automation solutions built to scale with your operations From precision gripping to fully integrated systems, our solutions are designe",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px 35px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-grid section-tilte-grid margin-bottom-large",
+      "id": "",
+      "textSnippet": "OUR SOLUTIONS Automation solutions built to scale with your operations From precision gripping to fully integrated systems, our solutions are designe",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px 0px 100px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "",
+      "id": "",
+      "textSnippet": "PRODUCT OVERVIEW ARC Grip X1 A next-gen robotic gripper for precise handling, automation, and integration into production lines. PAYLOAD UP TO 50 KG",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "product-section-wrapper",
+      "id": "",
+      "textSnippet": "PRODUCT OVERVIEW ARC Grip X1 A next-gen robotic gripper for precise handling, automation, and integration into production lines. PAYLOAD UP TO 50 KG",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "60px 0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "PRODUCT OVERVIEW ARC Grip X1 A next-gen robotic gripper for precise handling, automation, and integration into production lines. PAYLOAD UP TO 50 KG",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "section without-bottom-spacing",
+      "id": "",
+      "textSnippet": "WHY CHOOSE US Built for results.Engineered for performance. Precision at Scale Achieve consistent, high-accuracy performance across repetitive and co",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "150px 0px 0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "WHY CHOOSE US Built for results.Engineered for performance. Precision at Scale Achieve consistent, high-accuracy performance across repetitive and co",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px 35px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-vflex section-center-title-wrap large-bottom-spacing",
+      "id": "",
+      "textSnippet": "WHY CHOOSE US Built for results.Engineered for performance.",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px 320px 70px",
+        "maxWidth": "700px"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "section small-bottom-spacing",
+      "id": "",
+      "textSnippet": "OUR LOCATIONS WORLDWIDE Powering automation worldwide. 3 8 7 6 5 4 3 2 1 0 9 8 7 6 5 4 3 2 + Deployments in North America, Europe, Asia Work with us W",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "150px 0px 70px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "map-section-wrapper",
+      "id": "",
+      "textSnippet": "OUR LOCATIONS WORLDWIDE Powering automation worldwide. 3 8 7 6 5 4 3 2 1 0 9 8 7 6 5 4 3 2 + Deployments in North America, Europe, Asia Work with us W",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "OUR LOCATIONS WORLDWIDE Powering automation worldwide. 3 8 7 6 5 4 3 2 1 0 9 8 7 6 5 4 3 2 + Deployments in North America, Europe, Asia Work with us W",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "section small-bottom-spacing",
+      "id": "",
+      "textSnippet": "WHAT OUR CLIENTS SAY “When a finger pad wore through mid-shift, the part number was on the unit and the replacement was already in our stores. Their e",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "150px 0px 70px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "WHAT OUR CLIENTS SAY “When a finger pad wore through mid-shift, the part number was on the unit and the replacement was already in our stores. Their e",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "",
+      "id": "",
+      "textSnippet": "",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px 35px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "achievement-marquee small-section-bottom-spacing",
+      "id": "",
+      "textSnippet": "",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "30px 60px 70px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "",
+      "id": "",
+      "textSnippet": "READY TO AUTOMATE YOUR WORKFLOW? Talk to our experts and discover the right solution for your production. Request a quote Request a quote All Solutio",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "section-video-holder",
+      "id": "",
+      "textSnippet": "READY TO AUTOMATE YOUR WORKFLOW? Talk to our experts and discover the right solution for your production. Request a quote Request a quote All Solutio",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "READY TO AUTOMATE YOUR WORKFLOW? Talk to our experts and discover the right solution for your production. Request a quote Request a quote All Solutio",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px",
+        "maxWidth": "1370px"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-hflex hero-dual-buttons-wrap",
+      "id": "",
+      "textSnippet": "Request a quote Request a quote All Solutions All Solutions",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(255, 255, 255)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "margin": "30px 0px 0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "class": "footer",
+      "id": "",
+      "textSnippet": "NEWS, UPDATES & INDUSTRY TRENDS How robotic grippers are transforming modern manufacturing COMPANY ABOUT US ABOUT US OUR PARTNERS OUR PARTNERS OUR PRO",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "150px 0px 30px",
+        "margin": "0px",
+        "maxWidth": "none"
+      }
+    },
+    {
+      "tag": "DIV",
+      "class": "w-layout-blockcontainer base-container w-container",
+      "id": "",
+      "textSnippet": "NEWS, UPDATES & INDUSTRY TRENDS How robotic grippers are transforming modern manufacturing COMPANY ABOUT US ABOUT US OUR PARTNERS OUR PARTNERS OUR PRO",
+      "styles": {
+        "fontFamily": "Inter, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "27px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderColor": "rgb(0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 15px",
+        "margin": "0px 35px",
+        "maxWidth": "1370px"
+      }
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a1e7aa9396d0f27df4ad40d_Frame%2014%20(2).svg",
+      "alt": "Logo",
+      "width": 79,
+      "height": 18,
+      "naturalWidth": 308,
+      "naturalHeight": 70,
+      "class": "logo-project"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a671bba3c2a9bcfdfa11ec4_Frame%20(56).svg",
+      "alt": "Icon Phone",
+      "width": 20,
+      "height": 20,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-chat"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bbb1766c62dfd2e524117_image%206.avif",
+      "alt": "White robotic arm with a metallic gripper reaching to pick up an object",
+      "width": 560,
+      "height": 775,
+      "naturalWidth": 462,
+      "naturalHeight": 639,
+      "class": "hero-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bbcf70ee30b63d3ba237b_Arrow%20Right.svg",
+      "alt": "Arrow Right",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 18,
+      "naturalHeight": 18,
+      "class": "icon-pre"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bbcf70ee30b63d3ba237b_Arrow%20Right.svg",
+      "alt": "Arrow Right",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 18,
+      "naturalHeight": 18,
+      "class": "icon-post"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b758641f/6a4bcb680abb78dab8a3c875_image%207.avif",
+      "alt": "Precision robotic gripping",
+      "width": 0,
+      "height": 338,
+      "naturalWidth": 940,
+      "naturalHeight": 940,
+      "class": "image-cover"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-pre large-round-link-light-grey-3"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-post large-round-link-light-grey-4"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b758641f/6a4bcb9350fd69347721c795_Integrated%20Automation%20Systems.avif",
+      "alt": "Integrated Automation Systems",
+      "width": 0,
+      "height": 338,
+      "naturalWidth": 940,
+      "naturalHeight": 940,
+      "class": "image-cover"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-pre large-round-link-light-grey-3"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-post large-round-link-light-grey-4"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b758641f/6a4bcbc7697ea3031e9aa85f_Built%20for%20your%20unique%20workflow.avif",
+      "alt": "Built for your unique workflow",
+      "width": 0,
+      "height": 338,
+      "naturalWidth": 940,
+      "naturalHeight": 940,
+      "class": "image-cover"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-pre large-round-link-light-grey-3"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-post large-round-link-light-grey-4"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c1a0e761435265871c881_Frame%20(45).svg",
+      "alt": "Icon arrow",
+      "width": 45,
+      "height": 45,
+      "naturalWidth": 50,
+      "naturalHeight": 50,
+      "class": "link-icon"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c1a0e761435265871c881_Frame%20(45).svg",
+      "alt": "Icon arrow",
+      "width": 45,
+      "height": 45,
+      "naturalWidth": 50,
+      "naturalHeight": 50,
+      "class": "link-icon"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2352c71100ecc1a69cb1_Frame%2016%20(2).svg",
+      "alt": "icon play",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 18,
+      "naturalHeight": 18,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2749a6d72237b696d6b2_Frame%2016%201.svg",
+      "alt": "Decorative Element",
+      "width": 250,
+      "height": 250,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "main-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c276ab5a08b27712ed9af_Frame%2016%202.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "center-image-absolute"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2c0dcc728b7c191e0ae6_Frame%2017.svg",
+      "alt": "Decorative Element",
+      "width": 250,
+      "height": 250,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "image-top"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2c21cc728b7c191e0e94_Frame%2018.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "image-medium"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2c3db02433792afa095f_Frame%2019.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "image-bottom"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2f5ccc728b7c191f2aac_Frame%2072.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "top-left-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2f85b429b18112ba1275_Frame%2073.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "top-right-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2fa0f0d7c65f0ae4a6a3_Frame%2074.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "bottom-left-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c2fbf49f02701facc1bbf_Frame%2075.svg",
+      "alt": "Decorative Element",
+      "width": 0,
+      "height": 0,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "bottom-right-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4c3757ddb8560d26701625_Map%2001.webp",
+      "alt": "Map",
+      "width": 0,
+      "height": 550,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "image-map"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4ca99bc9863722f0c6b2b5_Frame%20(46).svg",
+      "alt": "Icon Arrow",
+      "width": 14,
+      "height": 14,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "icon-pre icon-rotate"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4ca99bc9863722f0c6b2b5_Frame%20(46).svg",
+      "alt": "Icon Arrow",
+      "width": 14,
+      "height": 14,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "icon-post icon-rotate-right"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4ca99bc9863722f0c6b2b5_Frame%20(46).svg",
+      "alt": "Icon Arrow",
+      "width": 14,
+      "height": 14,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "icon-pre"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4ca99bc9863722f0c6b2b5_Frame%20(46).svg",
+      "alt": "Icon Arrow",
+      "width": 14,
+      "height": 14,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "icon-post"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb7841f7cb56d06a610a1_Vector%206%20(1).svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4bb764930e6ee14de932db_Vector%206.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 18,
+      "naturalHeight": 32,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb0f99a9a61a8b33afb94_Fictional%20company%20logo%20(1).svg",
+      "alt": "Client logo 2",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1085484aa8ee2f12463_Fictional%20company%20logo%20(2).svg",
+      "alt": "Client logo 3",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb11b446b55f7ea0e9bfc_Fictional%20company%20logo%20(3).svg",
+      "alt": "Client logo 4",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb12ee751d65bbaa978b6_Fictional%20company%20logo%20(4).svg",
+      "alt": "Client logo 5",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1402be1c66e5c6ef7da_Fictional%20company%20logo%20(5).svg",
+      "alt": "Client logo 6",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb0f99a9a61a8b33afb94_Fictional%20company%20logo%20(1).svg",
+      "alt": "Client logo 2",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb0f99a9a61a8b33afb94_Fictional%20company%20logo%20(1).svg",
+      "alt": "Client logo 2",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1085484aa8ee2f12463_Fictional%20company%20logo%20(2).svg",
+      "alt": "Client logo 3",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb11b446b55f7ea0e9bfc_Fictional%20company%20logo%20(3).svg",
+      "alt": "Client logo 4",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb12ee751d65bbaa978b6_Fictional%20company%20logo%20(4).svg",
+      "alt": "Client logo 5",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1402be1c66e5c6ef7da_Fictional%20company%20logo%20(5).svg",
+      "alt": "Client logo 6",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb0f99a9a61a8b33afb94_Fictional%20company%20logo%20(1).svg",
+      "alt": "Client logo 2",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb0f99a9a61a8b33afb94_Fictional%20company%20logo%20(1).svg",
+      "alt": "Client logo 2",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1085484aa8ee2f12463_Fictional%20company%20logo%20(2).svg",
+      "alt": "Client logo 3",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb11b446b55f7ea0e9bfc_Fictional%20company%20logo%20(3).svg",
+      "alt": "Client logo 4",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb12ee751d65bbaa978b6_Fictional%20company%20logo%20(4).svg",
+      "alt": "Client logo 5",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1402be1c66e5c6ef7da_Fictional%20company%20logo%20(5).svg",
+      "alt": "Client logo 6",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb075e82b6832d7496b23_Fictional%20company%20logo.svg",
+      "alt": "Client logo 1",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb0f99a9a61a8b33afb94_Fictional%20company%20logo%20(1).svg",
+      "alt": "Client logo 2",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb1085484aa8ee2f12463_Fictional%20company%20logo%20(2).svg",
+      "alt": "Client logo 3",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb11b446b55f7ea0e9bfc_Fictional%20company%20logo%20(3).svg",
+      "alt": "Client logo 4",
+      "width": 0,
+      "height": 27,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "small-logo achievement-logo-outer"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb6b23b781096db83733f_material-symbols_pause.svg",
+      "alt": "Pause video",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a4cb79f588193e33ab38518_ri_play-fill.svg",
+      "alt": "Pause video",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-pre"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb11a500271f65d0bd85cc_Frame.svg",
+      "alt": "Icon Arrow White",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 24,
+      "naturalHeight": 24,
+      "class": "icon-post"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb14c7a3f923869c20006f_Vector%205.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a0c0876645aeadb5a1f3082_69eb14c7a3f923869c20006f_Vector%205%201.svg",
+      "alt": "Decorative Element",
+      "width": 18,
+      "height": 32,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": "decorative-image"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/6a1461310f3eb0d5d9fad4cf_Frame%2014%20(1).svg",
+      "alt": "Logo light",
+      "width": 357,
+      "height": 70,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb172ea3e946b757e90400_Frame%20(1).svg",
+      "alt": "Soc Icon instagram white",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb174cb04ce089deada55f_Frame%20(2).svg",
+      "alt": "Soc Icon instagram red",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb185bb3af22b2cbb2ad92_Frame%20(3).svg",
+      "alt": "Soc Icon Facebook white",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb186d12eda8e33da747b3_Frame%20(4).svg",
+      "alt": "Soc Icon Facebook red",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb1c6d2f80ba31ce7f738b_Frame%20(5).svg",
+      "alt": "Soc Icon YouTube white",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/69eb1c7c7c82bc4d4b0723d9_Frame%20(6).svg",
+      "alt": "Soc Icon YouTube red",
+      "width": 18,
+      "height": 18,
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "class": ""
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "HomeHome",
+      "href": "/"
+    },
+    {
+      "text": "Home\n\nHome",
+      "href": "/"
+    },
+    {
+      "text": "About Us\n\nAbout Us",
+      "href": "/about-us"
+    },
+    {
+      "text": "Solutions\n\nSolutions",
+      "href": "/solutions"
+    },
+    {
+      "text": "HomeHome",
+      "href": "/"
+    },
+    {
+      "text": "About UsAbout Us",
+      "href": "/about-us"
+    },
+    {
+      "text": "SolutionsSolutions",
+      "href": "/solutions"
+    },
+    {
+      "text": "Solution DetailsSolution Details",
+      "href": "/solutions/precision-robotic-gripping"
+    },
+    {
+      "text": "ProductsProducts",
+      "href": "/products"
+    },
+    {
+      "text": "Product DetailProduct Detail",
+      "href": "/products/arc-grip-x1"
+    },
+    {
+      "text": "IndustriesIndustries",
+      "href": "/industries"
+    },
+    {
+      "text": "Industry DetailsIndustry Details",
+      "href": "/industry/automated-transportation"
+    },
+    {
+      "text": "LeadershipLeadership",
+      "href": "/leadership"
+    },
+    {
+      "text": "Our ClientsOur Clients",
+      "href": "/our-clients"
+    },
+    {
+      "text": "Our PartnersOur Partners",
+      "href": "/our-partners"
+    },
+    {
+      "text": "PricingPricing",
+      "href": "/pricing"
+    },
+    {
+      "text": "Style GuideStyle Guide",
+      "href": "/style-guide"
+    },
+    {
+      "text": "ChangelogChangelog",
+      "href": "/changelog"
+    },
+    {
+      "text": "TestimonialsTestimonials",
+      "href": "/testimonials"
+    },
+    {
+      "text": "FAQFAQ",
+      "href": "/faq"
+    },
+    {
+      "text": "Contact UsContact Us",
+      "href": "/contact-us"
+    },
+    {
+      "text": "BlogBlog",
+      "href": "/blog"
+    },
+    {
+      "text": "Blog DetailsBlog Details",
+      "href": "/blog-posts/guarding-that-operators-will-not-work-around"
+    },
+    {
+      "text": "LicensesLicenses",
+      "href": "/licenses"
+    },
+    {
+      "text": "InstructionsInstructions",
+      "href": "/instructions"
+    },
+    {
+      "text": "Get a quoteGet a quote",
+      "href": "/contact-us"
+    },
+    {
+      "text": "",
+      "href": "tel:+1(555)123-4567"
+    },
+    {
+      "text": "Get a quote\nGet a quote",
+      "href": "/contact-us"
+    },
+    {
+      "text": "All Solutions\nAll Solutions",
+      "href": "/solutions"
+    },
+    {
+      "text": "Book a Demo\nBook a Demo",
+      "href": "/contact-us"
+    },
+    {
+      "text": "",
+      "href": "/solutions"
+    },
+    {
+      "text": "Read more about company\nRead more about company",
+      "href": "/about-us"
+    },
+    {
+      "text": "Precision Robotic Gripping\n\nHigh-performance grippers engineered for accuracy, speed, and reliability across a wide range of applications.",
+      "href": "/solutions/precision-robotic-gripping"
+    },
+    {
+      "text": "Integrated Automation Systems\n\nEnd-to-end robotic systems designed to streamline production, improve efficiency, and scale with your business.",
+      "href": "/solutions/integrated-automation-systems"
+    },
+    {
+      "text": "Built for Your Unique Workflow\n\nCustom-engineered solutions developed to solve complex challenges and meet specific operational requirements.",
+      "href": "/solutions/built-for-your-unique-workflow"
+    },
+    {
+      "text": "All solutions",
+      "href": "/solutions"
+    },
+    {
+      "text": "Request a quote\nRequest a quote",
+      "href": "/contact-us"
+    },
+    {
+      "text": "Watch video\nWatch video",
+      "href": "#"
+    },
+    {
+      "text": "Work with us\nWork with us",
+      "href": "/contact-us"
+    },
+    {
+      "text": "Request a quote\nRequest a quote",
+      "href": "/contact-us"
+    },
+    {
+      "text": "All Solutions\nAll Solutions",
+      "href": "/solutions"
+    },
+    {
+      "text": "",
+      "href": "/blog"
+    },
+    {
+      "text": "",
+      "href": "/"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/"
+    },
+    {
+      "text": "",
+      "href": "https://www.youtube.com/"
+    },
+    {
+      "text": "ABOUT US\nABOUT US",
+      "href": "/about-us"
+    },
+    {
+      "text": "OUR PARTNERS\nOUR PARTNERS",
+      "href": "/our-partners"
+    },
+    {
+      "text": "OUR PRODUCTS\nOUR PRODUCTS",
+      "href": "/products"
+    },
+    {
+      "text": "NEWS & INSIGHTS\nNEWS & INSIGHTS",
+      "href": "/blog"
+    },
+    {
+      "text": "OUR CLIENTS\nOUR CLIENTS",
+      "href": "/our-clients"
+    },
+    {
+      "text": "GRIPPERS\nGRIPPERS",
+      "href": "/solutions/precision-robotic-gripping"
+    },
+    {
+      "text": "AUTOMATION SYSTEMS\nAUTOMATION SYSTEMS",
+      "href": "/solutions/integrated-automation-systems"
+    },
+    {
+      "text": "CUSTOM SOLUTIONS\nCUSTOM SOLUTIONS",
+      "href": "/solutions/built-for-your-unique-workflow"
+    },
+    {
+      "text": "INDUSTRIES WE SERVE\nINDUSTRIES WE SERVE",
+      "href": "/solutions/solutions-across-every-industry"
+    },
+    {
+      "text": "INTEGRATIONS\nINTEGRATIONS",
+      "href": "/solutions/seamless-system-integrations"
+    },
+    {
+      "text": "FAQ'S\nFAQ'S",
+      "href": "/faq"
+    },
+    {
+      "text": "CONTACT\nCONTACT",
+      "href": "/contact-us"
+    },
+    {
+      "text": "PRICING\nPRICING",
+      "href": "/pricing"
+    },
+    {
+      "text": "INDUSTRIES\nINDUSTRIES",
+      "href": "/industries"
+    },
+    {
+      "text": "TESTIMONIALS\nTESTIMONIALS",
+      "href": "/testimonials"
+    },
+    {
+      "text": "LICENSES",
+      "href": "/licenses"
+    },
+    {
+      "text": "WEBFLOW TEMPLATES",
+      "href": "https://www.128.digital/webflow-templates"
+    },
+    {
+      "text": "128.DIGITAL",
+      "href": "https://www.128.digital/"
+    },
+    {
+      "text": "WEBFLOW",
+      "href": "https://webflow.com/"
+    }
+  ],
+  "stylesheets": [
+    "https://cdn.prod.website-files.com/69d8ab8c31cb7e83b7586419/css/robixx-128.webflow.shared.a5ba8e4bc.css",
+    "https://fonts.googleapis.com/css?family=Geist+Mono:300,400,500,600,700%7CGowun+Batang:300,400,500,600,700%7CInter:300,400,500,600,700"
+  ]
+}
